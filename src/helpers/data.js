@@ -1,7 +1,7 @@
 export const data = [
   {
-    name: "Kareem Abdul-Jabbar",
-    img: "https://s22928.pcdn.co/wp-content/uploads/2018/03/Kareem-Abdul-Jabbar.jpg",
+    name: "Eda Erdem",
+    img: "https://www.voleybolplus.com/wp-content/uploads/2023/05/1665091.jpg.webp",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",
@@ -10,8 +10,8 @@ export const data = [
     ],
   },
   {
-    name: "Larry Bird",
-    img: "https://images.footballfanatics.com/boston-celtics/larry-bird-boston-celtics-unsigned-driving-to-the-basket-photograph_pi4025000_ff_4025713-3a32778de9bb567994e1_full.jpg?_hv=2&w=900",
+    name: "Zehra Güneş",
+    img: "https://im.haberturk.com/2023/01/13/3555895_a6bcb72baf51a666e3c4813ba2eb7ac8_640x640.jpg",
     statistics: [
       "21,791 points",
       "8,974 rebaunds",
@@ -20,38 +20,8 @@ export const data = [
     ],
   },
   {
-    name: "Wilt Chamberlain",
-    img: "https://pbs.twimg.com/media/EQwzU_RXUAAAATG?format=jpg&name=4096x4096",
-    statistics: [
-      "31,419 points",
-      "23,924 rebaunds",
-      "4,643 assist",
-      "13 All Star",
-    ],
-  },
-  {
-    name: "Magic Johnson",
-    img: "https://cdn.britannica.com/27/189527-050-5BAD12C2/Magic-Johnson.jpg",
-    statistics: [
-      "17,707 points",
-      "6,559 rebaunds",
-      "10,141 assist",
-      "12 All Star",
-    ],
-  },
-  {
-    name: "Michael Jordan",
-    img: "https://cdn.europosters.eu/image/1300/posters/michael-jordan-i116434.jpg",
-    statistics: [
-      "32,292 points",
-      "6,672 rebaunds",
-      "5,633 assist",
-      "14 All Star",
-    ],
-  },
-  {
-    name: "Karl Malone",
-    img: "https://i.pinimg.com/564x/49/76/10/497610981fdbe0158ba09b5c8418d87d--nba-players-basketball-players.jpg",
+    name: "Hande Baladın",
+    img: "https://i.redd.it/hande-balad%C4%B1n-v0-df9q4lc62eha1.jpg?width=2332&format=pjpg&auto=webp&s=56347bf435807a10cb2ead1168e21239905d84ff",
     statistics: [
       "36,928 points",
       "14,968 rebaunds",
@@ -60,8 +30,19 @@ export const data = [
     ],
   },
   {
-    name: "Hakeem Olajuwon",
-    img: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/hakeem-olajuwon-von-den-houston-rockets.jpg",
+    name: "Meryem Boz",
+    img: "https://i.pinimg.com/originals/eb/36/3e/eb363e8d46551cfe7ef1791c537d1699.jpg",
+    statistics: [
+      "17,707 points",
+      "6,559 rebaunds",
+      "10,141 assist",
+      "12 All Star",
+    ],
+  },
+
+  {
+    name: "Simge Aköz",
+    img: "https://tvf.org.tr/wp-content/uploads/2021/05/SIMGE-AKOZ-scaled.jpg",
     statistics: [
       "26,946 points",
       "13,748 rebaunds",
@@ -70,8 +51,18 @@ export const data = [
     ],
   },
   {
-    name: "Shaquille O'Neal",
-    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
+    name: "Cansu Özbay",
+    img: "https://www.voleybolplus.com/wp-content/uploads/2022/01/2906D219-1DD2-4063-939F-4DC797C1F269.jpeg",
+    statistics: [
+      "32,292 points",
+      "6,672 rebaunds",
+      "5,633 assist",
+      "14 All Star",
+    ],
+  },
+  {
+    name: "İlkin Aydın",
+    img: "https://thumbs.dreamstime.com/b/galatasaray-hdi-sigorta-vs-vakifbank-turkish-sultans-league-match-istanbul-turkiye-december-ilkin-aydin-serves-burhan-280675128.jpg",
     statistics: [
       "28,596 points",
       "13,099 rebaunds",
@@ -80,18 +71,18 @@ export const data = [
     ],
   },
   {
-    name: "Scottie Pippen",
-    img: "https://basketballforever.com/wp-content/uploads/2020/04/Scottie-Pippen-Chicago-Bulls.jpg",
+    name: "Ebrar Karakurt",
+    img: "https://images.boboscope.com/f31d2fcb-4a7e-4415-8a89-e677ae5574dc?alt=media&token=417a46b2-0747-40cc-a834-1f9139391a11&tr=w-1100,c-at_max,f-auto",
     statistics: [
-      "18,940 points",
-      "7,494 rebaunds",
-      "6,135 assist",
-      "7 All Star",
+      "31,419 points",
+      "23,924 rebaunds",
+      "4,643 assist",
+      "13 All Star",
     ],
   },
   {
-    name: "Patrick Ewing",
-    img: "https://cdn.britannica.com/37/231237-050-0CB78D66/Patrick-Ewing-New-York-Knicks-1986.jpg",
+    name: "Derya Cebecioğlu",
+    img: "https://www.kimnereli.net/wp-content/uploads/2022/10/Derya-Cebecioglu.jpg",
     statistics: [
       "24,815 points",
       "11,607 rebaunds",
@@ -100,8 +91,8 @@ export const data = [
     ],
   },
   {
-    name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
+    name: "Ayça Aykaç",
+    img: "https://tvf.org.tr/wp-content/uploads/2023/06/ayca-aykac.jpg",
     statistics: [
       "33,643 points",
       "7,047 rebaunds",
@@ -110,8 +101,18 @@ export const data = [
     ],
   },
   {
-    name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styles/square_800/public/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
+    name: "Saliha Şahin",
+    img: "https://i.pinimg.com/736x/e6/6f/ef/e66fef798b0181e72fe4aa9bf5ba27ae.jpg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
+  {
+    name: "Aslı Kalaç",
+    img: "https://voleybolunsesi.com/uploadk33/2020/09/IMG_5005.jpg",
     statistics: [
       "23,757 points",
       "12,546 rebaunds",

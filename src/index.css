@@ -9,8 +9,13 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .card-container {
-  background-image: url("./assets/sultanlar2.jpg");
+  background-image: url("./assets/sultanlar3.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   min-height: 400px;
+  
 }
+
+/* .form-control{
+  background-color: #f4d467;
+} */
