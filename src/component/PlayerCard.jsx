@@ -24,7 +24,7 @@ const PlayerCard = ({ name, img, statistics }) => {
           <ul
             className="m-auto"
             //   onClick={() => setShowImage(true)}
-          >show
+          >
             {statistics.map((item, i) => (
               <li className="list-unstyled" key={i}>
                 {" "}
