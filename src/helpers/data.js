@@ -4,7 +4,7 @@ export const data = [
     img: "https://www.voleybolplus.com/wp-content/uploads/2023/05/1665091.jpg.webp",
     statistics: [
       "Pozisyon: Orta Oyuncu",
-      "Doğum Tarihi: 13/12/1987",
+      "Doğum Tarihi: 22/06/1987",
       "Kilo: 74 kg",
       "Boy: 188 cm",
     ],
@@ -14,7 +14,7 @@ export const data = [
     img: "https://im.haberturk.com/2023/01/13/3555895_a6bcb72baf51a666e3c4813ba2eb7ac8_640x640.jpg",
     statistics: [
       "Pozisyon: Orta Oyuncu",
-      "Doğum Tarihi: 13/12/1999",
+      "Doğum Tarihi: 07/07/1999",
       "Kilo: 88 kg",
       "Boy: 197 cm",
     ],
@@ -24,7 +24,7 @@ export const data = [
     img: "https://i.redd.it/hande-balad%C4%B1n-v0-df9q4lc62eha1.jpg?width=2332&format=pjpg&auto=webp&s=56347bf435807a10cb2ead1168e21239905d84ff",
     statistics: [
       "Pozisyon: Smaçör",
-      "Doğum Tarihi: 13/12/1997",
+      "Doğum Tarihi: 01/09/1997",
       "Kilo: 81 kg",
       "Boy: 190 cm",
     ],
@@ -45,7 +45,7 @@ export const data = [
     img: "https://tvf.org.tr/wp-content/uploads/2021/05/SIMGE-AKOZ-scaled.jpg",
     statistics: [
       "Pozisyon: Libero",
-      "Doğum Tarihi: 13/12/1991",
+      "Doğum Tarihi: 23/04/1991",
       "Kilo: 55 kg",
       "Boy: 168 cm",
     ],
@@ -55,7 +55,7 @@ export const data = [
     img: "https://www.voleybolplus.com/wp-content/uploads/2022/01/2906D219-1DD2-4063-939F-4DC797C1F269.jpeg",
     statistics: [
       "Pozisyon: Pasör",
-      "Doğum Tarihi: 13/12/1996",
+      "Doğum Tarihi: 17/10/1996",
       "Kilo: 78 kg",
       "Boy: 182 cm",
     ],
