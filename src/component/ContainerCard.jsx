@@ -22,13 +22,12 @@ const ContainerCard = () => {
   return (
     <>
       <Form.Control
-        className="form-control"
         type="search"
         placeholder="Search Player..."
         onChange={handleChange}
       />
       <Container className=" p-3 rounded-4 card-container my-3">
-        <Row className="justify-content-center g-3" xs={2} md={4} lg={6}>
+        <Row className="justify-content-center g-3" xs={1} md={2} lg={3} xl={4}>
           
 
           {/* {filteredData.map((player, i) => (
