@@ -33,10 +33,10 @@ export const data = [
     name: "Meryem Boz",
     img: "https://i.pinimg.com/originals/eb/36/3e/eb363e8d46551cfe7ef1791c537d1699.jpg",
     statistics: [
-      "Pozisyon: Orta Oyuncu",
-      "Doğum Tarihi: 13/12/1995",
+      "Pozisyon: Pasör çaprazı",
+      "Doğum Tarihi: 03/02/1988",
       "Kilo: 73 kg",
-      "Boy: 185 cm",
+      "Boy: 190 cm",
     ],
   },
 
@@ -104,10 +104,10 @@ export const data = [
     name: "Saliha Şahin",
     img: "https://i.pinimg.com/736x/e6/6f/ef/e66fef798b0181e72fe4aa9bf5ba27ae.jpg",
     statistics: [
-      "Pozisyon: Orta Oyuncu",
-      "Doğum Tarihi: 13/12/1995",
-      "Kilo: 73 kg",
-      "Boy: 185 cm",
+      "Pozisyon: Smaçör",
+      "Doğum Tarihi: 05/11/1998",
+      "Kilo: 72 kg",
+      "Boy: 184 cm",
     ],
   },
   {
