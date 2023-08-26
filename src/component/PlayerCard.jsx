@@ -5,7 +5,6 @@ import { useState } from "react"
 
 const PlayerCard = ({ name, img, statistics }) => {
   const [showImage, setShowImage] = useState(true);
-  // && || ?:
   return (
     <Col>
       <Card
