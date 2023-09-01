@@ -135,6 +135,6 @@ export default RowColLayoutExample;
 <a href="https://sparkling-trifle-685296.netlify.app/">Live</a>
 
 ## Output
-<img src="./src/assets/icon-volleyball-8.jpg" alt="deneme">
+<img src="./src/assets/sultanlar3.jpg" alt="deneme">
 
 ![deneme](./filenin_sultanları.gif)
