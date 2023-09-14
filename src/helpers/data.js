@@ -20,13 +20,23 @@ export const data = [
     ],
   },
   {
-    name: "Hande Baladın",
-    img: "https://i.redd.it/hande-balad%C4%B1n-v0-df9q4lc62eha1.jpg?width=2332&format=pjpg&auto=webp&s=56347bf435807a10cb2ead1168e21239905d84ff",
+    name: "Melissa Vargas",
+    img: "https://iatkv.tmgrup.com.tr/e76d86/635/635/348/0/1022/674?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2023%2F09%2F06%2Fsaha-da-costuruyor-disarida-da-melissa-vargas-dj-kabinine-gecti-geceye-damgasini-vurdu-herkesin-dilinde-vargas-1693984630793.jpg",
     statistics: [
-      "Pozisyon: Smaçör",
-      "Doğum Tarihi: 01/09/1997",
-      "Kilo: 81 kg",
-      "Boy: 190 cm",
+      "Pozisyon: Pasör Çaprazı",
+      "Doğum Tarihi: 16/10/1999",
+      "Kilo: 76 kg",
+      "Boy: 194 cm",
+    ],
+  },
+  {
+    name: "Ebrar Karakurt",
+    img: "https://images.boboscope.com/f31d2fcb-4a7e-4415-8a89-e677ae5574dc?alt=media&token=417a46b2-0747-40cc-a834-1f9139391a11&tr=w-1100,c-at_max,f-auto",
+    statistics: [
+      "Pozisyon:  Smaçör Çaprazı",
+      "Doğum Tarihi: 17/01/2000",
+      "Kilo: 73 kg",
+      "Boy: 196 cm",
     ],
   },
   {
@@ -36,6 +46,17 @@ export const data = [
       "Pozisyon: Pasör çaprazı",
       "Doğum Tarihi: 03/02/1988",
       "Kilo: 73 kg",
+      "Boy: 190 cm",
+    ],
+  },
+
+  {
+    name: "Hande Baladın",
+    img: "https://i.redd.it/hande-balad%C4%B1n-v0-df9q4lc62eha1.jpg?width=2332&format=pjpg&auto=webp&s=56347bf435807a10cb2ead1168e21239905d84ff",
+    statistics: [
+      "Pozisyon: Smaçör",
+      "Doğum Tarihi: 01/09/1997",
+      "Kilo: 81 kg",
       "Boy: 190 cm",
     ],
   },
@@ -70,16 +91,7 @@ export const data = [
       "Boy: 183 cm",
     ],
   },
-  {
-    name: "Ebrar Karakurt",
-    img: "https://images.boboscope.com/f31d2fcb-4a7e-4415-8a89-e677ae5574dc?alt=media&token=417a46b2-0747-40cc-a834-1f9139391a11&tr=w-1100,c-at_max,f-auto",
-    statistics: [
-      "Pozisyon:  Smaçör Çaprazı",
-      "Doğum Tarihi: 17/01/2000",
-      "Kilo: 73 kg",
-      "Boy: 196 cm",
-    ],
-  },
+
   {
     name: "Derya Cebecioğlu",
     img: "https://www.kimnereli.net/wp-content/uploads/2022/10/Derya-Cebecioglu.jpg",
