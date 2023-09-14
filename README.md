@@ -1,4 +1,11 @@
-# React Bootstrap
+## React Bootstrap/filenin_sultanlri
+
+# <a href="https://sparkling-trifle-685296.netlify.app/">Live</a>
+
+## Output
+<img src="./src/assets/file.png" alt="deneme">
+
+![deneme](./filenin_sultanları.gif)
 
 [Dökümanı görüntülemek için tıklayınız](https://react-bootstrap.netlify.app/docs/getting-started/introduction) <br>
 [React Bootstrap Componentlerini görmek için tıklayınız](https://react-bootstrap.netlify.app/docs/components/accordion)
@@ -130,11 +137,3 @@ export default RowColLayoutExample;
 | Extra large          | xl          | ≥1200px    |
 | Extra extra large    | xxl         | ≥1400px    |
 
-## Demo
-
-<a href="https://sparkling-trifle-685296.netlify.app/">Live</a>
-
-## Output
-<img src="./src/assets/file.png" alt="deneme">
-
-![deneme](./filenin_sultanları.gif)
