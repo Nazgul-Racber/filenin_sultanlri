@@ -3,9 +3,9 @@
 # <a href="https://sparkling-trifle-685296.netlify.app/">Live</a>
 
 ## Output
-<img src="./src/assets/file.png" alt="deneme">
-
 ![deneme](./filenin_sultanları.gif)
+
+<img src="./src/assets/file.png" alt="deneme">
 
 [Dökümanı görüntülemek için tıklayınız](https://react-bootstrap.netlify.app/docs/getting-started/introduction) <br>
 [React Bootstrap Componentlerini görmek için tıklayınız](https://react-bootstrap.netlify.app/docs/components/accordion)
