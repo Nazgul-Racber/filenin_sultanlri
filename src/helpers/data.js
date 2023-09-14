@@ -123,6 +123,16 @@ export const data = [
     ],
   },
   {
+    name: "Elif Şahin",
+    img: "https://i.pinimg.com/564x/85/c6/a4/85c6a499866c951268bb9f49c170c923.jpg",
+    statistics: [
+      "Pozisyon: Pasör",
+      "Doğum Tarihi: 19/01/2001",
+      "Kilo: 68 kg",
+      "Boy: 190 cm",
+    ],
+  },
+  {
     name: "Aslı Kalaç",
     img: "https://voleybolunsesi.com/uploadk33/2020/09/IMG_5005.jpg",
     statistics: [
