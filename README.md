@@ -7,7 +7,7 @@
 <img src="./src/assets/file.png" alt="deneme">
 
 ## Project Skeleton
-
+```
 filenin sultanları (folder)
 |
 |----readme.md         
@@ -27,4 +27,4 @@ filenin sultanları (folder)
 │    └── index.css
 ├── package.json
 └── yarn.lock
-
+```
