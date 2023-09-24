@@ -1,6 +1,6 @@
 ## React Bootstrap/filenin_sultanlri
 
-### <a href="https://sparkling-trifle-685296.netlify.app/">Live</a>
+### <a href="https://filenin-sultanlari.netlify.app/">Live</a>
 ## Gif
 ![deneme](./filenin_sultanları.gif)
 ## image
